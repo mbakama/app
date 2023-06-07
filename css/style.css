@@ -1,0 +1,29 @@
+.col-6,.col-3,.col-8,.col-9{ 
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 1em 1em; 
+    margin-right: 5px;
+} 
+.col-6{
+    /* vertical-align: middle; */
+    width: 685px;
+}
+.col-3{
+    width:333px; 
+}
+.col-9{
+    width: 1000px;
+}
+.my_section{
+    margin:20px 30px;
+    display: flex; 
+}
+.row{
+    display: flex;
+}
+.content{
+    object-position: 25% 70%;
+}
+img{ 
+   width: 300px; 
+}
